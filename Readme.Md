@@ -12,9 +12,7 @@
   
   ## Usage
   git clone right click html file and open up default browser
-  
-  ## License
-  [![License Badge]()]()
+ 
   </br>
   This application uses no license license. 
   ## Questions 
